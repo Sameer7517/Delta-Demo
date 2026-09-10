@@ -1,2 +1,3 @@
 # Delta-Demo
-Revising the concepts of git and github 
+Revising the concepts of git and github in 3rd year
+
